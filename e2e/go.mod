@@ -34,7 +34,7 @@ require (
 	github.com/BurntSushi/toml v1.2.1 // indirect
 	github.com/ChainSafe/go-schnorrkel v1.0.0 // indirect
 	github.com/ChainSafe/go-schnorrkel/1 v0.0.0-00010101000000-000000000000 // indirect
-	github.com/DimitrisJim/ictest/v7 v7.0.0-20230405142614-dbc9eb41c342 // indirect
+	github.com/DimitrisJim/ictest/v7 v7.0.0-20230409123202-20e118151417 // indirect
 	github.com/Microsoft/go-winio v0.6.0 // indirect
 	github.com/StirlingMarketingGroup/go-namecase v1.0.0 // indirect
 	github.com/armon/go-metrics v0.4.1 // indirect
